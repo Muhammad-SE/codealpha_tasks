@@ -1,2 +1,7 @@
-# codealpha_tasks
-Completed two internship tasks for Code Alpha: 1️⃣ CGPA Calculator – A C++ program to calculate CGPA based on user input. 2️⃣ Login &amp; Registration System – A basic C++ system using file handling. Both projects are uploaded on GitHub.
+This repository contains my internship task submission for Code Alpha.
+
+✅ Task 1: CGPA Calculator
+A simple C++ program that calculates the CGPA based on user input for course grades. It includes basic validation and user interaction via console.
+
+✅ Task 2: Login & Registration System
+A basic login and registration system developed in C++. It stores user credentials, checks for valid input, and simulates a basic authentication mechanism using file handling.
